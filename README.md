@@ -22,9 +22,7 @@ Híbrido
 
 ---Descripción---
 
-Será una demo técnica (Una sección de lo que pensamos podría ser un gran videojuego) de un videojuego survival horror narrativo con cámaras fijas en un laboratorio subterráneo de ambiente opresivo,
-
-haciendo sentir al jugador oprimido y cazado por el ambiente y las criaturas que lo habitan.
+Será una demo técnica (Una sección de lo que pensamos podría ser un gran videojuego) de un videojuego survival horror narrativo con cámaras fijas en un laboratorio subterráneo de ambiente opresivo, haciendo sentir al jugador oprimido y cazado por el ambiente y las criaturas que lo habitan.
 
 ---Problemática---
 
@@ -36,15 +34,11 @@ El impacto que la IA tendrá en el futuro cuando su influencia se expanda y teng
 
 ---Objetivo preliminar---
 
-Principalmente, buscamos concientizar con respecto al poder que se le da a la IA, la poca o directamente inexistente regulación que tienen sus operaciones con respecto a nosotros y nuestros puestos laborales, 
-
-además de que la mera existencia de este tipo de tecnologías es una amenaza para incontables ecosistemas.
+Principalmente, buscamos concientizar con respecto al poder que se le da a la IA, la poca o directamente inexistente regulación que tienen sus operaciones con respecto a nosotros y nuestros puestos laborales, además de que la mera existencia de este tipo de tecnologías es una amenaza para incontables ecosistemas.
 
 ---Dirección Conceptual---
 
-Estéticamente queremos reflejar una ambientación opresiva y deprimente, hacer sentir al jugador rechazado del mundo y ambiente que lo rodea, 
-
-no es bienvenido y nadie espera su sobrevivencia. Narrativamente es más de lo mismo, el jugador es un ente prescindible, algo desechable.
+Estéticamente queremos reflejar una ambientación opresiva y deprimente, hacer sentir al jugador rechazado del mundo y ambiente que lo rodea, no es bienvenido y nadie espera su sobrevivencia. Narrativamente es más de lo mismo, el jugador es un ente prescindible, algo desechable.
  
 ---Uso del MCP---
 
